@@ -1,0 +1,16 @@
+h1{
+    color: chartreuse;
+}
+
+h6{
+    color: darksalmon;
+}
+a{
+    color: rgb(172, 93, 211);
+}
+ul{
+    background-color: chocolate;
+}
+h6:hover{
+    color: fuchsia;
+}
